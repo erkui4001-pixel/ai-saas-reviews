@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://erkui4001-pixel.github.io/ai-saas-reviews/sitemap.xml
